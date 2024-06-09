@@ -1,0 +1,26 @@
+token name surname sex age height weight.kg eyecolour test.group hobbies marstat
+29ef6f59fd9ac01e32b96a2deb31468cead3da1e55217b69ee3a932deb9886e8 David Stephens male 31 1.81 96.6 blue 1 "Plays cricket, football and rugby" married
+b4b0039ae6874154757388eb58f07030f0f7d1c08df10d51db1194154dbe3b0b Karen Bain female 23 152.0 45.4 brown 1 "Keen potter and home cook" single
+199083b48a273f2a7fb004f0223f865369737360a1b418bfacac9dda0f76a484 Asaf Fry M 28 1.79 74.4 brown 1 "Likes e-games" single
+063561ac27a4b06062fcdd489ce25eab82fd5bd80fe76fcfddda2d57afe86e6b Jill Bain Female 29 66.5 60.9 brown 1 "Has a horse and regularly rides" married
+7b665b53188c13e41731dd0e55799b6b8d999819999d1088073d4e0caeaf9fa6 Fiona Bain Female 19 1.46 79.2 blue 1 "Spends most free time with friends and family" divorced
+9404f142e65be3d93018e1ee87bf3e56dfdc21f9307501cfc4fcb5634df589e8 Natasha Fry F 24 1.48 79.3 brown 2 "Prefers indoor pursuits like reading" married
+6e258a34e333bb551fb5b5d668954e0eb99772ac7ab784bac905aa63b06e77dd Jack Rogers Male 62 1.76 81.7 blue 2 "Plays bowls twice a week" widowed
+948039ec6cce186762f21614f380485fc318b7d5639b4d568eec188f6da26bea Lee Connor M 32 1.83 69.0 blue 2 "Likes backpacking, climbing and canoeing" Married
+57766529a3ec63fa4f6830857058f56df44eb1b4cad3752a0799c51bd7e10d7a Anastasia Stuart female 18 1.53 79.2 blue 2 "Plays tennis for her county; Yorkshire" widowed
+18acf70a4501f571a896ecc42e0cd6978a4ac3f8b06281f9b105302cace7884c Kevin Armstrong male 28 1.81 81.7 blue 2 "enjoys swimming and eating out with his wife" sing
+a65d0b6a688ccd71c39fb5ea176f637f25fd0af79604e4a578af7b12eef8966b Peter Johnstone 23 1.78 87.1 brown 3 "keen cricketer and tennis player" 
+145e5fcb7a7f2b439c42f4ad90ef29446b155ce62eb78128e6fcb4aed1ccc530 Lillith Bradley Female 58 61.8 51.0 hazel 3 "likes jigsaw puzzles and needlework" married
+947330250b7f20e77b61ef2b451ac9499a43d362df4beb9691b5080aa2c299e5 Brian Johnstone Male 46 1.9 81.9 green 3 "Says he has no time for hobbies" single
+dd7b3e3ace9f14670dffe78df15f02c54ecc938d0d4e281abacea447b81ba8bd Michelle Bradley F 29 1.64 49.5 green 3 "Likes growing vegetables in her allotment" single
+f8efc082434c43b0222b58a5b92e10454ea75395dc5994f0769e8fd83a345469 Zack Andrews M 25 1.8 64.6 brown 3 "likes cooking and watching TV"
+9c23594b8bc4a113acf801d518b7c2aee3024be9f0bbb4c66172508c0288853f John Jones M 19 1.93 60.3 hazel 4 "Plays the violin and is a member of a youth orchestra" married
+bfff735ddf3ce73d4ca5251e752234ebd33378d2565741edbf8bf3a2c2e4988b Caroline Jones F 45 1.77 73.8 blue 4 "Likes walking her two dogs in the country" widowed
+ede9e98407b47943eaccc3d3b42ae25b801e24b30bb8fcce1d28626ad487731b Susan Frank Female 23 1.79 42.6 blue 4 "Swims for her region. Currently injured." single
+9539097bc18e13efd9ce7153659ba9a6aeb2a5afd25e41a25cceb69b72b16f1e Wendy Brady female 20 145.0 57.7 hazel 4 "Likes going to the cinema with friends." married
+66e988d2b0fc7bedc046823649957a5d017c79b6cece0d9ac1abd31de7a5bf15 Michael Ayre male 32 1.75 66.4 hazel 4 "Member of a cycling club. Also likes sailing." divorced
+4b8817004e228fec88b0db83f3b264608a9a135bb6a2ad0c09b9ab7c9d897bb1 David Jones Male 72 1.45 72.0 brown 5 "Enjoys reading fiction and non-fiction."
+b4b0039ae6874154757388eb58f07030f0f7d1c08df10d51db1194154dbe3b0b Karen Reid Female 23 64.3 60.1 green 5 "Often socialises with friends." single
+6e258a34e333bb551fb5b5d668954e0eb99772ac7ab784bac905aa63b06e77dd Jack Rogers M 62 150.0 76.1 green 5 "Enjoys country walks with his dog." married
+a6779cbb4419d1175da592a39eec49871ffa1fbf79ce2869c5ae9b6f90c83beb Kim Connor female 39 64.0 77.0 green 3 "Plays in a brass band." married
+a6779cbb4419d1175da592a39eec49871ffa1fbf79ce2869c5ae9b6f90c83beb Kim Brady Male 39 180.0 90.5 green 5 "Enjoys playing volleyball weekly." single
