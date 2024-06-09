@@ -1,11 +1,11 @@
 # Udemy Course
-### Linear Regression: Supervised ML for predictive modeling😲
+### Regression: Supervised ML for predictive modeling😲
 
 ![Linear Regression 1](https://github.com/AhmedShafique313/sml_udemy/assets/99950606/93f71261-678b-4ac3-b487-9f6a2d09f8f9)
 
 ### Instructor : Ahmed Shafique & Haiqa Qaiser
-
 Students you can simply check the lab session in our GitHub repository updately. If you facing any issue, dont feel hesitation to contact us. Its open source contribution for studens.
+## Section 1
 
 ### Lab 1 : Week 1
 `Introduction to pandas`
@@ -38,3 +38,9 @@ Predicting salaries of employees using `sklearn` library
 - employee_salary.csv
 - cost_function_py.ipynb
 - cost_func_dataset.ipynb
+
+## Section 2 
+
+### Week 1
+Multiple Linear Regression
+- Intro to MLR.pptx
