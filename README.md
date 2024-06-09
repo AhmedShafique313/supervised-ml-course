@@ -34,13 +34,13 @@ Predicting salaries of employees using `sklearn` library
 - linear_reg_employee.ipynb
 - ch2_Mathematical_Foundation.pdf
 - Linear Regression in detail.pptx
-### Week6
+
+## Multiple Linear Regression
+- Intro to MLR.pptx
+- 50_startups.csv
+- file.ipynb
+
+## Cost Function
 - employee_salary.csv
 - cost_function_py.ipynb
 - cost_func_dataset.ipynb
-
-## Section 2 
-
-### Week 1
-Multiple Linear Regression
-- Intro to MLR.pptx
